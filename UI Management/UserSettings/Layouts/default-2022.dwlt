@@ -651,9 +651,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 345b0000
-      m_LastClickedID: 23348
-      m_ExpandedIDs: 2cfbfffff6590000c85a0000
+      m_SelectedIDs: 165a0000
+      m_LastClickedID: 23062
+      m_ExpandedIDs: 2cfbfffff6590000165a0000be5a0000c85a00003c5b0000925b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1085,9 +1085,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1014.234, y: 557.6641, z: 487.3287}
+    m_Target: {x: 1571.6295, y: 611.6578, z: 517.9131}
     speed: 2
-    m_Value: {x: 1014.234, y: 557.6641, z: 487.3287}
+    m_Value: {x: 1571.6295, y: 611.6578, z: 517.9131}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1133,13 +1133,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.014378335, y: 0.040183056, z: 0.0005826222, w: 0.99911684}
+    m_Target: {x: 0.011108965, y: -0.012302265, z: 0.00014082856, w: 0.99989074}
     speed: 2
-    m_Value: {x: -0.014377933, y: 0.04018193, z: 0.0005826059, w: 0.9990888}
+    m_Value: {x: 0.011108652, y: -0.012301918, z: 0.0001408246, w: 0.9998626}
   m_Size:
-    m_Target: 836.7478
+    m_Target: 499.58353
     speed: 2
-    m_Value: 836.7478
+    m_Value: 499.58353
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1270,7 +1270,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 23348
+  m_LastSelectedObjectID: 23062
 --- !u!114 &20
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1316,7 +1316,7 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/Images
+    - Assets/Fonts
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1324,7 +1324,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 46
   m_LastFolders:
-  - Assets/Images
+  - Assets/Fonts
   m_LastFoldersGridSize: 46
   m_LastProjectPath: C:\Users\kathe\OneDrive\Documents\GitHub\Canama-Virtudazo_UI\UI
     Management
@@ -1332,8 +1332,8 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 685c0000
-    m_LastClickedID: 23656
+    m_SelectedIDs: 785c0000
+    m_LastClickedID: 23672
     m_ExpandedIDs: 00000000605c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1389,8 +1389,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000bc610000b46100006862000032670000fa7b000062650000a8640000006700009a6700009667000000000000f25900002c5b0000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000bc610000b46100006862000032670000fa7b000062650000a8640000006700009a67000096670000f25900002c5b000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
